@@ -29,7 +29,7 @@
 
 * анализ распределения зарплат и факторов
 * очистка данных и визуализация
-  👉 https://github.com/paginxd/your-project-link
+  👉 [https://github.com/paginxd/your-project-link](https://github.com/paginxd/DataScience-Portfolio/tree/main/Project-1-HH-Resume-Analysis)
 
 🔹 **Анализ продаж (Power BI)**
 
