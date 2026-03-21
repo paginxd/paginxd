@@ -31,18 +31,19 @@
 * очистка данных и визуализация
   👉 [https://github.com/paginxd/your-project-link](https://github.com/paginxd/DataScience-Portfolio/tree/main/Project-1-HH-Resume-Analysis)
 
+🔹 **Событийная аналитика и A/A/B тест стартапа по продаже продуктов**
+
+* очистка данных
+* построение воронки событий
+* анализ результатов A/A/B теста
+  👉 [https://github.com/paginxd/DataScience-Portfolio/tree/main/Project-2-Food-Store](https://github.com/paginxd/DataScience-Portfolio/tree/main/Project-2-Food-Store)
+
 🔹 **Анализ продаж (Power BI)**
 
 * дашборд: выручка, прибыль, динамика
 * использование DAX и time intelligence
   👉 (добавь ссылку)
-
-🔹 **SQL-анализ данных**
-
-* сложные запросы (CTE, JOIN, агрегации)
-* анализ бизнес-метрик
-  👉 (добавь ссылку)
-
+  
 ---
 
 ## 📫 Контакты
