@@ -25,24 +25,8 @@
 
 ## 📊 Проекты
 
-🔹 **EDA вакансий (HeadHunter)**
-
-* анализ распределения зарплат и факторов
-* очистка данных и визуализация
-  👉 [https://github.com/paginxd/your-project-link](https://github.com/paginxd/DataScience-Portfolio/tree/main/Project-1-HH-Resume-Analysis)
-
-🔹 **Событийная аналитика и A/A/B тест стартапа по продаже продуктов**
-
-* очистка данных
-* построение воронки событий
-* анализ результатов A/A/B теста
-  👉 [https://github.com/paginxd/DataScience-Portfolio/tree/main/Project-2-Food-Store](https://github.com/paginxd/DataScience-Portfolio/tree/main/Project-2-Food-Store)
-
-🔹 **Анализ продаж (Power BI)**
-
-* дашборд: выручка, прибыль, динамика
-* использование DAX и time intelligence
-  👉 (добавь ссылку)
+* Все проекты собраны здесь:
+👉 https://github.com/paginxd/DataScience-Portfolio
   
 ---
 
@@ -52,18 +36,3 @@
 💬 Telegram: [@dpagin007](https://t.me/dpagin007)  
 💻 GitHub: https://github.com/paginxd  
 
-
-<!--
-**paginxd/paginxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
